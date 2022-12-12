@@ -1,3 +1,2 @@
-# jQuery
-
-# jQuery Basics - Trianing Materials
+# jQuery Basics
+Trianing Materials
