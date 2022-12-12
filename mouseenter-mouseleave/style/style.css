@@ -1,0 +1,7 @@
+p.highlight {
+    color: green;
+    background-color: turquoise;
+    padding: 40px;
+    font-size: 40px;
+    font-family: sans-serif;
+}

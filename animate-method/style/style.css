@@ -1,0 +1,43 @@
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+}
+
+button {
+    border: none;
+    background-color: tan;
+    color: brown;
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 5px 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    border-style: solid;
+    border-color: yellow;
+    margin: 5px 0;
+}
+
+.box-two {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-style: groove;
+    margin-top: 30px;
+    border-color: brown;
+}
+
+.box-three {
+    width: 80px;
+    height: 80px;
+    background-color: gray;
+    margin: 40px;
+    border-style: solid;
+    border-color: blanchedalmond;
+}

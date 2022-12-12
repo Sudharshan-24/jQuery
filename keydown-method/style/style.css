@@ -1,0 +1,10 @@
+p {
+    padding: 20px;
+    background-color: aliceblue;
+    color: brown;
+    display: none;
+}
+
+div {
+    margin: 20px 0;
+}

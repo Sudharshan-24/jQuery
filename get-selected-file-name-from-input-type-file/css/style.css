@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightskyblue;
+    line-height: 2;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    color: lightcyan;
+    margin-bottom: 50px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.filename {
+    background-color: white;
+    color: blueviolet;
+    padding: 10px;
+    width: 300px;
+    margin-right: 15px;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+
+label {
+    background-color: darkviolet;
+    color: whitesmoke;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+input[type="file"] {
+    display: none;
+}

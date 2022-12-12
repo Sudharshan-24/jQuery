@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightyellow;
+    font-size: 18px;
+    line-height: 1.5;
+    word-spacing: 5px;
+}
+
+.container {
+    width: 500px;
+    margin: 120px auto;
+    text-align: justify;
+}
+
+.content {
+    background-color: lightcyan;
+    width: 100%;
+    padding: 20px;
+}
+
+.btn {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    float: right;
+}
+
+.btn:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
